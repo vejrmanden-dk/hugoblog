@@ -1,6 +1,6 @@
 +++
 date = '2025-01-19T09:10:43+01:00'
-draft = true
+draft = false
 title = 'Fra tåge til solskin'
 +++
 ## Underrubrik
