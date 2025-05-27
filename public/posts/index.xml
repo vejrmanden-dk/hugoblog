@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vejrmanden.dk</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Vejrmanden.dk</description>
+    <generator>Hugo</generator>
+    <language>da_DK</language>
+    <lastBuildDate>Sun, 09 Feb 2025 14:24:30 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stort set tør men også ret skyet dag</title>
+      <link>http://localhost:1313/posts/2025-02-09-dagens-vejr/</link>
+      <pubDate>Sun, 09 Feb 2025 14:24:30 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025-02-09-dagens-vejr/</guid>
+      <description>&lt;h2 id=&#34;indledning&#34;&gt;Indledning&lt;/h2&gt;&#xA;&lt;p&gt;Nu skriver vi en hel masse om dagens vejr.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fra tåge til solskin</title>
+      <link>http://localhost:1313/posts/2025-01-19_fra-taage-til-solskin/</link>
+      <pubDate>Sun, 19 Jan 2025 09:10:43 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025-01-19_fra-taage-til-solskin/</guid>
+      <description>&lt;h2 id=&#34;underrubrik&#34;&gt;Underrubrik&lt;/h2&gt;&#xA;&lt;p&gt;Endnu en gang er dagen begyndt med mange skyer, dis og tåge - endda rimtåge - men i dag ender det med sol flere steder.&lt;/p&gt;&#xA;&lt;p&gt;Forklaringen på ændringen er, at vinden går i syd og sender tørrere luft op over Danmark. Derved går mange af de lavthængende skyer efterhånden i opløsning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>En ny artikel om noget spændende</title>
+      <link>http://localhost:1313/posts/en-ny-artikel-om-noget/</link>
+      <pubDate>Sat, 18 Jan 2025 18:05:30 +0100</pubDate>
+      <guid>http://localhost:1313/posts/en-ny-artikel-om-noget/</guid>
+      <description>&lt;h2 id=&#34;en-undertitel&#34;&gt;En undertitel&lt;/h2&gt;&#xA;&lt;p&gt;Ja, vældigt spændende.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mit allerførste indlæg</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 18 Jan 2025 12:37:30 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;indledning&#34;&gt;Indledning&lt;/h2&gt;&#xA;&lt;p&gt;Dette er mit &lt;strong&gt;først&lt;/strong&gt; indlæg på min hjemmeside. Bær over med det. Ja, lev med det, som nogen ville sige.&lt;/p&gt;&#xA;&lt;p&gt;Jeg redigerer det nu fra Obsidian, og det virker altså meget fint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/dkprecip20152024.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nu er vi på den anden side af billedet.&lt;/p&gt;&#xA;&lt;h3 id=&#34;en-lille-underoverskrift&#34;&gt;En lille underoverskrift&lt;/h3&gt;&#xA;&lt;p&gt;Med tekst, som følger efter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

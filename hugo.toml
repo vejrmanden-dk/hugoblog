@@ -1,0 +1,50 @@
+baseURL = 'https://vejrmanden.dk/'
+languageCode = 'da-DK'
+title = 'Vejrmanden.dk'
+theme = 'paper'
+
+defaultContentLanguage = 'da'
+
+[menus]
+  [[menus.main]]
+    name = 'Hjem'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Om'
+    pageRef = '/about'
+    weight = 20
+
+[languages]
+  [languages.da]
+    disabled = false
+    languageCode = 'da_DK'
+    languageDirection = ''
+    languageName = ''
+    title = 'Vejrmanden.dk'
+    weight = 0
+    [languages.da.params]
+        subtitle = 'Som vinden blæser'
+[params]
+  dateFormat = "02. Jan 2006"
+  subtitle = 'Som vinden blæser'
+  color = 'light'
+  rss = true 
+
+  twitter = 'vejrmanden'
+  instagram = 'thomasmoerk'
+  threads = '@thomasmoerk'
+
+  avatar = 'https://gravatar.com/userimage/94448380/ac7648cce972118e3e6c759c8e91105f.jpeg?size=256&cache=1737218419531'
+  name = 'Thomas Mørk'
+  bio = 'En vejrmand på tv'
+
+  monoDarkIcon = true  
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
