@@ -1,6 +1,6 @@
 +++
 date = '2025-01-18T12:37:30+01:00'
-draft = true
+draft = false
 title = 'Mit allerførste indlæg'
 +++
 ## Indledning
