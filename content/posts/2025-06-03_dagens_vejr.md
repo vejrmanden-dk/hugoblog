@@ -5,5 +5,5 @@ title = 'Ustadigt vejr resten af ugen'
 +++
 ## Især lørdag kan byde på kraftige byger
 Her står en masse.
-![Et billede](images/dkprecip20152024.png)
+![Et billede](/images/dkprecip20152024.png)
 
