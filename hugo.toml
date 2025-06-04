@@ -4,6 +4,7 @@ title = 'Vejrmanden.dk'
 theme = 'paper'
 
 defaultContentLanguage = 'da'
+canonifyURLs = true
 
 [menus]
   [[menus.main]]
