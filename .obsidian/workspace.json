@@ -163,10 +163,14 @@
       "templates:Indsæt skabelon": false
     }
   },
-  "active": "bdb9d0213e9603e7",
+  "active": "0e2cbab58f6d27e7",
   "lastOpenFiles": [
-    "content/posts/En ny artikel om noget.md",
+    "public/images/20250805_skakbraet_analogi.png",
+    "static/dkprecip20152024.png",
+    "public/20250805_skakbraet_analogi.png",
+    "images/20250805_skakbraet_analogi.png",
     "content/posts/2025-08-05 Derfor rammer vejrappen ofte forkert om sommeren.md",
+    "content/posts/En ny artikel om noget.md",
     "content/posts/2025-01-19_fra-taage-til-solskin.md",
     "content/posts/2025-06-03_dagens_vejr.md",
     "content/posts/my-first-post.md",
@@ -188,9 +192,6 @@
     "public/categories/index.html",
     "public/categories",
     "public/threads.svg",
-    "public/instagram.svg",
-    "public/images/dkprecip20152024.png",
-    "public/images/profile.jpg",
-    "public/theme.svg"
+    "public/instagram.svg"
   ]
 }
