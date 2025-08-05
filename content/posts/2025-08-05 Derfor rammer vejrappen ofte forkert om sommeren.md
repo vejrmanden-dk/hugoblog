@@ -3,8 +3,10 @@ date = '2025-08-05T06:00:00+01:00'
 draft = false
 title = 'Derfor rammer vejrappen ofte forkert om sommeren'
 +++
-
+billede
 ## – og hvorfor det ikke nødvendigvis betyder, at prognosen er dårlig
+
+Af [Thomas Mørk](thomas@vejrmanden.dk), meteorolog.
 
 Du har pakket parasollen, fyldt picnickurven og fundet solbrillerne frem. Din vejrapp lovede sol hele eftermiddagen.  
 
