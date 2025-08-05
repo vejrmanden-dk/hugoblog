@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vejrmanden.dk</title>
+    <link>http://localhost:1313/hugoblog/posts/</link>
+    <description>Recent content in Posts on Vejrmanden.dk</description>
+    <generator>Hugo</generator>
+    <language>da_DK</language>
+    <lastBuildDate>Tue, 05 Aug 2025 06:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugoblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Derfor rammer vejrappen ofte forkert om sommeren</title>
+      <link>http://localhost:1313/hugoblog/posts/2025-08-05-derfor-rammer-vejrappen-ofte-forkert-om-sommeren/</link>
+      <pubDate>Tue, 05 Aug 2025 06:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/hugoblog/posts/2025-08-05-derfor-rammer-vejrappen-ofte-forkert-om-sommeren/</guid>
+      <description>&lt;h2 id=&#34;-og-hvorfor-det-ikke-nødvendigvis-betyder-at-prognosen-er-dårlig&#34;&gt;– og hvorfor det ikke nødvendigvis betyder, at prognosen er dårlig&lt;/h2&gt;&#xA;&lt;p&gt;Du har pakket parasollen, fyldt picnickurven og fundet solbrillerne frem. Din vejrapp lovede jo sol hele eftermiddagen. Men idet du træder ud, falder de første tunge dråber. Én sky bliver til ti – og pludselig står du midt i et uventet regnskyl.&lt;/p&gt;&#xA;&lt;p&gt;Kender du det?&lt;/p&gt;&#xA;&lt;p&gt;Vejrapps er smarte, men sommervejret sætter dem på prøve. Især i sommermånederne er der stor risiko for, at vejrsymbolet ikke rammer det, du faktisk oplever. Det skyldes ikke nødvendigvis, at prognosen er forkert – men at &lt;strong&gt;oversættelsen til symboler og placeringen af vejret&lt;/strong&gt; kan fejle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2025-02-09-dagens vejr.md",
+                "file": "content/posts/2025-08-05 Derfor rammer vejrappen ofte forkert om sommeren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-09-dagens vejr"
+              "title": "2025-08-05 Derfor rammer vejrappen ofte forkert om sommeren"
             }
           }
         ]
@@ -155,28 +155,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Åbn fastgjorte kommandoer": false,
       "switcher:Åbn hurtig skifter": false,
       "graph:Åbn grafvisning": false,
       "canvas:Opret nyt lærred": false,
       "daily-notes:Åbn dagens note": false,
-      "templates:Indsæt skabelon": false,
-      "command-palette:Åbn kommandopalet": false
+      "templates:Indsæt skabelon": false
     }
   },
   "active": "bdb9d0213e9603e7",
   "lastOpenFiles": [
-    "public/posts/2025-02-09-dagens-vejr/index.html",
-    "public/posts/2025-02-09-dagens-vejr",
-    "content/posts/my-first-post.md",
-    "content/posts/2025-02-09-dagens vejr.md",
     "content/posts/En ny artikel om noget.md",
+    "content/posts/2025-08-05 Derfor rammer vejrappen ofte forkert om sommeren.md",
     "content/posts/2025-01-19_fra-taage-til-solskin.md",
-    "public/posts/en-ny-artikel-om-noget 2",
-    "public/tags/page 2",
-    "public/categories/page 2",
-    "public/posts/en-ny-artikel-om-noget/index.html",
-    "public/posts/en-ny-artikel-om-noget",
-    "images/dkprecip20152024.png",
-    "images/profile.jpg"
+    "content/posts/2025-06-03_dagens_vejr.md",
+    "content/posts/my-first-post.md",
+    "content/posts/2025-05-27_dagens_vejr.md",
+    "content/posts/2025-02-09-dagens vejr.md",
+    "public/posts/2025-08-05-derfor-rammer-vejrappen-ofte-forkert-om-sommeren/index.html",
+    "public/posts/2025-08-05-derfor-rammer-vejrappen-ofte-forkert-om-sommeren",
+    "public/index.xml",
+    "public/twitter.svg",
+    "public/linkedin.svg",
+    "public/highlight.min.js",
+    "public/rss.svg",
+    "public/bluesky.svg",
+    "public/theme.png",
+    "public/categories/page/1/index.html",
+    "public/categories/page/1",
+    "public/categories/page",
+    "public/categories/index.xml",
+    "public/categories/index.html",
+    "public/categories",
+    "public/threads.svg",
+    "public/instagram.svg",
+    "public/images/dkprecip20152024.png",
+    "public/images/profile.jpg",
+    "public/theme.svg"
   ]
 }
