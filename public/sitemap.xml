@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugoblog/posts/2025-08-05-derfor-rammer-vejrappen-ofte-forkert-om-sommeren/</loc>
+    <loc>https://vejrmanden.dk/posts/2025-08-05-derfor-rammer-vejrappen-ofte-forkert-om-sommeren/</loc>
     <lastmod>2025-08-05T06:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoblog/posts/</loc>
+    <loc>https://vejrmanden.dk/posts/</loc>
     <lastmod>2025-08-05T06:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoblog/</loc>
+    <loc>https://vejrmanden.dk/</loc>
     <lastmod>2025-08-05T06:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoblog/about/</loc>
+    <loc>https://vejrmanden.dk/about/</loc>
     <lastmod>2025-02-27T14:45:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugoblog/categories/</loc>
+    <loc>https://vejrmanden.dk/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugoblog/tags/</loc>
+    <loc>https://vejrmanden.dk/tags/</loc>
   </url>
 </urlset>

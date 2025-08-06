@@ -1,4 +1,4 @@
-baseURL = 'https://vejrmanden-dk.github.io/hugoblog/'
+baseURL = 'https://vejrmanden.dk'
 languageCode = 'da-DK'
 title = 'Vejrmanden.dk'
 theme = 'paper'
